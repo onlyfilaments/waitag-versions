@@ -1,0 +1,14 @@
+{
+  "latest_version": "4.0",
+  "release_date": "2026-05-12",
+  "download_url": "https://yourwebsite.com/download",
+  "release_notes": [
+    "Health check indicator shows server status in real time",
+    "Company audit log — view your own write and clear history",
+    "OEM session timeout warning with extend option",
+    "OEM bulk blacklist tool",
+    "OEM audit export to CSV",
+    "Version checker in Updates tab",
+    "Friendly offline message when server unreachable"
+  ]
+}
