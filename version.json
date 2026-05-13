@@ -1,14 +1,12 @@
 {
-  "latest_version": "4.0",
-  "release_date": "2026-05-12",
-  "download_url": "https://yourwebsite.com/download",
+  "latest_version": "1.1.5",
+  "release_date": "2026-05-13",
+  "download_url": "https://waitag.com/download",
   "release_notes": [
-    "Health check indicator shows server status in real time",
-    "Company audit log — view your own write and clear history",
-    "OEM session timeout warning with extend option",
-    "OEM bulk blacklist tool",
-    "OEM audit export to CSV",
-    "Version checker in Updates tab",
-    "Friendly offline message when server unreachable"
+    "Improved license management and billing portal",
+    "Enhanced audit log with detailed activity tracking",
+    "Header bar improvements with quick portal access",
+    "Eye icon fix on all password fields",
+    "Server status indicator repositioned"
   ]
 }
