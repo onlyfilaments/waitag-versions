@@ -1,12 +1,11 @@
 {
-  "latest_version": "1.1.5",
-  "release_date": "2026-05-13",
+  "latest_version": "1.1.6",
+  "release_date": "2026-05-14",
   "download_url": "https://waitag.com/download",
   "release_notes": [
-    "Improved license management and billing portal",
-    "Enhanced audit log with detailed activity tracking",
-    "Header bar improvements with quick portal access",
-    "Eye icon fix on all password fields",
-    "Server status indicator repositioned"
+    "Improved licence management and subscription controls",
+    "Enhanced billing portal with tier change and offer acceptance",
+    "Account lifecycle improvements for trial and demo accounts",
+    "General stability and performance improvements"
   ]
 }
